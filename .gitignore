@@ -1,1 +1,5 @@
 .DS_Store
+
+# SSH keys
+ssh_cog
+ssh_cog.pub
